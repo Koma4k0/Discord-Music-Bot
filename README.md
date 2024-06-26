@@ -1,4 +1,4 @@
-https://tracker.koma4k.xyz/telemetry/clxvkjisb0001xmjnf0eakp35/clxvyqk1b001hryrgas7vvl5o/badge.svg
+<p align="center"> <img src="https://tracker.koma4k.xyz/telemetry/clxvkjisb0001xmjnf0eakp35/clxvyqk1b001hryrgas7vvl5o/badge.svg" alt="koma4k0" /> </p>
 
 # 📢 About Sound Wave
 Sound Wave is a Discord Music Bot coded in JavaScript using [discord.js](https://discord.js.org/). This is the old version of Sound Wave, I have since recoded the whole bot, if you would like to use Sound Wave you can invite it [here](https://discord.com/oauth2/authorize?client_id=1175252678805303367&permissions=8&scope=bot%20applications.commands).
